@@ -20,8 +20,6 @@ Run it locally
 Make sure you have all dependencies installed. Then run 
 
 ```
-#!bash
-
 npm start
 ```
 
